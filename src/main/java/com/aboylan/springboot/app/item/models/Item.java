@@ -1,5 +1,7 @@
 package com.aboylan.springboot.app.item.models;
 
+import com.aboylan.springboot.app.commons.models.entity.Producto;
+
 public class Item {
 
 	private Producto producto;

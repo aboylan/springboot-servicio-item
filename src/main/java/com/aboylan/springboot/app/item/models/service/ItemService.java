@@ -3,7 +3,7 @@ package com.aboylan.springboot.app.item.models.service;
 import java.util.List;
 
 import com.aboylan.springboot.app.item.models.Item;
-import com.aboylan.springboot.app.item.models.Producto;
+import com.aboylan.springboot.app.commons.models.entity.Producto;
 
 public interface ItemService {
 
